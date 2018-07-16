@@ -1,0 +1,61 @@
+body {
+	background-color: rgb(63, 148, 231);
+	font-family: sans-serif;
+}
+
+#logo {
+	height: 35px;
+	left: 425px;
+	margin-bottom: 20px;
+	position: relative;
+	margin-top: 20px; 
+}
+
+main {
+	background-color: white; 
+	margin: auto;
+	padding: 20px 40px 50px 40px;
+	width: 320px;
+}
+
+h1 {
+	text-align: center;
+}
+
+input {
+	border: solid rgb(232, 232, 232) 2px;
+	display: inline-block;
+	height: 21px;
+	margin-bottom: 20px;
+	margin-top:20px;  
+	padding: 15px;
+	width: 286px;
+}
+
+button {
+	background-color: rgb(101, 196, 112);
+	border: solid rgb(101, 196, 112) 2px;
+	color: white; 
+	height: 55px;
+	font-size: 24px; 
+	padding: 15px;
+	width: 320px;
+
+}
+
+button:hover {
+	background-color: green; 
+}
+
+
+
+footer {
+	color: white;
+	text-align: center;
+}
+
+footer a {
+	color: white;
+	font-weight: bolder; 
+}
+
