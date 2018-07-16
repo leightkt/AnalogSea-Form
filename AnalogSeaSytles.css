@@ -5,10 +5,9 @@ body {
 
 #logo {
 	height: 35px;
-	left: 425px;
-	margin-bottom: 20px;
-	position: relative;
-	margin-top: 20px; 
+	display: block;
+	width: auto;
+	margin: 20px auto 20px;
 }
 
 main {
