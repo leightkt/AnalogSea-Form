@@ -46,6 +46,10 @@ button:hover {
 	background-color: green; 
 }
 
+button:focus {
+	background-color: green;
+}
+
 
 
 footer {
